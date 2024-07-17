@@ -4,8 +4,8 @@
 
 I'm a passionate full-stack developer who wants to create technology that's accessible to everyone! Currently pursuing my degree, I'm dedicated to expanding my knowledge and honing my skills in software development. I aim to leverage technology to impact people's lives meaningfully. Whether it's building inclusive web applications or contributing to open-source projects, I strive to learn, grow, and make a difference.
 
-[![Static Badge](https://img.shields.io/badge/albrthuynh-grey?style=flat-square&logo=instagram&labelColor=white)](https://www.instagram.com/albert_huynhhh/)
-[![Linkedin: albrthuynh](https://img.shields.io/badge/-albrthuynh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/albrthuynh/)
+[![Static Badge](https://img.shields.io/badge/edgarbrizzz-grey?style=flat-square&logo=instagram&labelColor=white)](https://www.instagram.com/edgarbrizzz/)
+[![Linkedin: Edgar Brizuela](https://img.shields.io/badge/-edgarbrizuela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/edgar-brizuela-4gg/)
 [![GitHub albrthuynh](https://img.shields.io/github/followers/albrthuynh?label=follow&style=social)](https://github.com/albrthuynh)
 
 ---
