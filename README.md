@@ -1,4 +1,4 @@
-# 💻Edgar Brizuela
+# 💻 Edgar Brizuela
 
 **🎓 Student at the [University of Illinois at Chicago](https://www.uic.edu/)**
 
