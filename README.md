@@ -22,7 +22,7 @@ I'm a passionate full-stack developer who wants to create technology that's acce
 ```javascript
 function Edgar(){
   const pronouns = "he/him";
-  let code = [C++, JavaScript, HTML, CSS, Python];
+  let code = [C/C++, JavaScript, HTML, CSS, Python, MatLab];
   let tools = [React]
   goal: "To become a full-stack engineer and develop tools that can have a positive impact on other internet users"
  
