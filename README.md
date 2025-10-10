@@ -1,53 +1,44 @@
 # 💻 Edgar Brizuela
 
-**🎓 Student at the [University of Illinois at Chicago](https://www.uic.edu/)**
+**🎓 Computer Science Student @ [University of Illinois at Chicago](https://www.uic.edu/)** | **Expected Graduation: December 2026**
 
-I'm a passionate full-stack developer who wants to create technology that's accessible to everyone! Currently pursuing my degree, I'm dedicated to expanding my knowledge and honing my skills in software development. I aim to leverage technology to impact people's lives meaningfully. Whether it's building inclusive web applications or contributing to open-source projects, I strive to learn, grow, and make a difference.
+I'm a passionate developer dedicated to building impactful, accessible technology. My core focus is on **full-stack development** and leveraging data structures, algorithms, and systems programming to solve real-world problems.
+
+I have professional experience developing a **Gemini LLM** to support efficient grant-making decisions and implementing screening tools with **Firebase**. I also have experience as a **Programming Practicum Teaching Assistant** at UIC. I'm currently seeking a **Software Engineering Internship** for Summer 2026.
 
 [![Static Badge](https://img.shields.io/badge/edgarbrizzz-grey?style=flat-square&logo=instagram&labelColor=white)](https://www.instagram.com/edgarbrizzz/)
-[![Linkedin: Edgar Brizuela](https://img.shields.io/badge/-edgarbrizuela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/edgar-brizuela-4gg/)
-[![GitHub ebrizuela1](https://img.shields.io/github/followers/ebrizuela1?label=follow&style=social)](https://github.com/ebrizuela1)
+[![Linkedin: Edgar Brizuela](https://img.shields.io/badge/-edgarbrizuela-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebrizzz)
+[![GitHub ebrizuelal](https://img.shields.io/github/followers/ebrizuelal?label=follow&style=social)](https://github.com/ebrizuelal)
 
 ---
-### ⚙️ Languages/Frameworks/Tools
-<img align = "left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align = "left" alt="JavaScript" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align = "left" alt="html5" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align = "left" alt="css3" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img align = "left" alt="react" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align = "left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/> <br/>
+### ⚙️ Technologies & Tools
 
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C/C++, Java, JavaScript, Python, SQL |
+| **Frameworks** | React.js, Tailwind, Streamlit, Flutter |
+| **Tools/OS** | Git/Github, GDB, vim, Unix/Linux CLI |
+| **Relevant Coursework** | Data Structures and Algorithms, Software Design, Systems Programming |
+
+<br/>
+
+---
+## 💻 Projects & Experience Snapshot
+
+* **WorldWise Travel Application (React.js, JavaScript):** A full-stack application built with React 18 for travel tracking, featuring interactive world maps using the **Leaflet.js** mapping library and **React Context API** for global state management.
+* **Pathfinding Application (C++):** Developed a real-world pathfinding tool using C++ to compute shortest paths on UIC's campus by modeling locations and paths as a weighted, directed graph.
+* **Software Engineering Internship (DPI/A Better Chicago):** Developed and fine-tuned a **Gemini LLM** on existing training data and created a medical assessment tool that implemented user response storage using **Firebase**.
+
+<br/>
 
 ```javascript
-function Edgar(){
+function Edgar() {
   const pronouns = "he/him";
-  let code = [C/C++, JavaScript, HTML, CSS, Python, MatLab];
-  let tools = [React]
-  goal: "To become a full-stack engineer and develop tools that can have a positive impact on other internet users"
- 
-  thankYou(){
-    console.log("Thank you for stopping by! I hope that you found my GitHub interesting. Consider following me if you want 😊");
+  let languages = ["C/C++", "Java", "JavaScript", "Python"];
+  let interests = ["Full-Stack Development", "AI/ML Applications", "Systems Programming"];
+  let goal = "To build efficient and positive tools for the internet community.";
+
+  function contact() {
+    console.log("Feel free to connect on LinkedIn or send me an email!");
   }
 }
-```
----
-## 🎉 Fun Facts!
-
-- I am a Terraria fanatic (~800 Hours)
-
-
-<!--
-**ebrizuela1/ebrizuela1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
