@@ -8,7 +8,7 @@ I have professional experience developing a **Gemini LLM** to support efficient 
 
 [![Static Badge](https://img.shields.io/badge/edgarbrizzz-grey?style=flat-square&logo=instagram&labelColor=white)](https://www.instagram.com/edgarbrizzz/)
 [![Linkedin: Edgar Brizuela](https://img.shields.io/badge/-edgarbrizuela-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebrizzz)
-[![GitHub ebrizuelal](https://img.shields.io/github/followers/ebrizuelal?label=follow&style=social)](https://github.com/ebrizuelal)
+[![GitHub ebrizuelal](https://img.shields.io/github/followers/ebrizuelal?label=follow&style=social)](https://github.com/ebrizuela1)
 
 ---
 ### ⚙️ Technologies & Tools
