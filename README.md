@@ -27,5 +27,4 @@ Full-stack focused CS student who most recently built production features at **C
 ---
 ## About Me
 Pronouns: he/him
-Actively seeking full-time SWE roles starting December 2026
 Contact: [LinkedIn](https://linkedin.com/in/ebrizzz) or email
